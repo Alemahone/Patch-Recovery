@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://we.tl/t-EJ9y3IpVto
+  RECOVERY_URL: https://github.com/Alemahone/Patch-Recovery/releases/download/1/recovery.img
 
 jobs:
   build:
